@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 div {
     color: red;
     height: 200px;
     width: 200px;
+=======
+input {
+    width: 100px;
+    height: 200px;
+    user-select: none;
+}
+
+span {
+    width: 100px;
+    display: inline;
+    height: 100px;
+    line-height: 100px;
+>>>>>>> dev
 }
